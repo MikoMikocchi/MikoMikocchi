@@ -1,2 +1,2 @@
-I'm new to C#/JavaScript/TypeScript and want to develop in these programming languages, although I learned a bit of Java and C++ before that a couple years ago, so programming is much easier for me now than if I had learned it from scratch.
+I'm new to C#/JavaScript/TypeScript/PHP and want to develop in these programming languages, although I learned a bit of Java and C++ before that a couple years ago, so programming is much easier for me now than if I had learned it from scratch.
 Learning a programming language was originally conceived to create my own game, but it could also be something that would bring me bread, which is why I'm here now.
