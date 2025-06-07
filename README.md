@@ -1,8 +1,9 @@
-<h1 align="center">Hello, my name is Mikhail Matskevich (also known as Miko or MikoMikocchi)</h1>
+<h1 align="center">Hello, my name is Mikhail Matskevich</h1>
+<h2 align="center">(also known as Miko or MikoMikocchi)</h1>
 <p align="center">My <a href="https://www.youtube.com/@mikomikocchi">Youtube</a> channel</p>
 
 <p align="left">[ 🖥️ ] I'm IT-enthusiast, who want to learn Web Development (both Frontend and Backend)</p>
-<p align="left">[ 🐧 ] I'm also Linux user, who really excited about how Linux works</p>
+<p align="left">[ 🐧 ] I am also a Linux user who really interested in the way Linux works. I like the variety of distributions, desktop environments and window managers that Linux provides.</p>
 
 <h2 align="center">I have experience at:</h2>
 
