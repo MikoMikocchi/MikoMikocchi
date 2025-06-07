@@ -1,5 +1,4 @@
-<h1 align="center">Hello, my name is Mikhail Matskevich</h1>
-<h2 align="center">(also known as Miko or MikoMikocchi)</h1>
+<h1 align="center">Hello, my name is Mikhail Matskevich (Miko / MikoMikocchi)</h1>
 <p align="center">My <a href="https://www.youtube.com/@mikomikocchi">Youtube</a> channel</p>
 
 <p align="left">[ 🖥️ ] I'm IT-enthusiast, who want to learn Web Development (both Frontend and Backend)</p>
