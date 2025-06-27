@@ -36,7 +36,7 @@
 
 <p align="center">
     <a href="https://archlinux.org/" target="_blank" rel="noreferrer">
-        <img src="https://static-00.iconduck.com/assets.00/archlinux-icon-512x512-4qh8bdwi.png" alt="arch" width="40" height="40"/>
+        <img src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/archlinux-512.png" alt="arch" width="40" height="40"/>
     </a>
     <a href="https://www.nixos.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/NixOS/nixos-artwork/master/logo/nix-snowflake-colours.svg" alt="nixos" width="40" height="40"/>
