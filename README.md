@@ -62,7 +62,7 @@ Backend-разработчик, автор open-source проектов и лю�
 ## 📊 GitHub-статистика
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MikoMikocchi&layout=compact&langs_count=11&theme=dracula&hide_border=true" height="200" alt="top langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MikoMikocchi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=true&order=2" height="195" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=MikoMikocchi&theme=dracula&hide_border=true" height="210" alt="streak stats" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MikoMikocchi&theme=react&area=true&hide_border=true" height="300" alt="activity graph" />
 </div>
