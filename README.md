@@ -52,9 +52,9 @@ Backend-разработчик, автор open-source проектов и лю�
   <img src="https://skillicons.dev/icons?i=vite,docker,ansible,linux,bash,git,nginx,vim" height="40"/>
 </div>
 
-### Эксперименты
+### Эксперименты (Для общего развития)
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=ruby,swift,kotlin,ktor,dart,flutter,py,fastapi,go,rust,vscode,notion" height="40"/>
+  <img src="https://skillicons.dev/icons?i=ruby,swift,kotlin,ktor,scala,dart,flutter,py,fastapi,go,rust" height="40"/>
 </div>
 
 ---
