@@ -54,7 +54,7 @@ Backend-разработчик, автор open-source проектов и лю�
 
 ### Эксперименты (Для общего развития)
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=ruby,swift,kotlin,ktor,scala,dart,flutter,py,fastapi,go,rust" height="40"/>
+  <img src="https://skillicons.dev/icons?i=ruby,swift,java,kotlin,ktor,scala,haskell,dart,flutter,py,fastapi" height="40"/>
 </div>
 
 ---
