@@ -14,9 +14,9 @@ Backend-разработчик, автор open-source проектов и лю�
 В моих проектах:
 
 - **Backend** — REST-сервисы на NestJS, очереди, кэширование, интеграции с API.  
-- **Frontend** — UI на React/Next.js/Vue (TypeScript) для внутренних инструментов.  
+- **Frontend** — UI на Next.js/Angular (TypeScript) для внутренних инструментов.  
 - **Инфраструктура** — автоматизация окружений с Docker и CI/CD.  
-- **Эксперименты** — Python, Swift, Kotlin, Ruby, Dart/Flutter.  
+- **Эксперименты** — Python, Kotlin, Java, Kotlin, Scala.  
 - **Любимый язык** — TypeScript 💙  
 
 📺 [YouTube-канал](https://www.youtube.com/@mikomikocchi) — иногда делюсь опытом разработки.
@@ -44,7 +44,7 @@ Backend-разработчик, автор open-source проектов и лю�
 
 ### Frontend
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,redux,nextjs,vue,nuxtjs,svelte,html,css,tailwind,sass" height="40"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,vite,angular,react,redux,nextjs,html,css,tailwind,sass" height="40"/>
 </div>
 
 ### Инфраструктура
@@ -54,7 +54,7 @@ Backend-разработчик, автор open-source проектов и лю�
 
 ### Эксперименты (Для общего развития)
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=ruby,swift,java,kotlin,ktor,scala,haskell,dart,flutter,py,fastapi" height="40"/>
+  <img src="https://skillicons.dev/icons?i=py,java,kotlin,ktor,scala,nix" height="40"/>
 </div>
 
 ---
