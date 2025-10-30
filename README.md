@@ -1,25 +1,27 @@
 <h1 align="center">👋 Привет! Я Михаил Мацкевич (Miko / MikoMikocchi)</h1>
 
 <p align="center">
-Backend-разработчик, автор open-source проектов и любитель экспериментов с новыми технологиями.
+Backend-разработчик. Делаю прикладные сервисы, открытые проекты и периодически пробую новые подходы.
 </p>
 
 ---
 
 ## 📝 О себе
 
-Создаю микросервисы, NestJS-приложения, Telegram-ботов, macOS-приложения и CLI-утилиты.  
-Уделяю внимание архитектуре, качеству кода и автоматизации. Постоянно пробую новые языки и фреймворки, чтобы привносить лучшие идеи в production.
+Работаю с микросервисами и серверными приложениями на **TypeScript/NestJS** и **Java/Spring Boot**. Также пишу Telegram-ботов.  
+Слежу за архитектурой и читаемостью кода, автоматизирую всё повторяемое. Часто пробую новые инструменты.
 
 В моих проектах:
 
-- **Backend** — REST-сервисы на NestJS, очереди, кэширование, интеграции с API.  
-- **Frontend** — UI на Next.js/Angular (TypeScript) для внутренних инструментов.  
-- **Инфраструктура** — автоматизация окружений с Docker и CI/CD.  
-- **Эксперименты** — Python, Kotlin, Java, Kotlin, Scala.  
-- **Любимый язык** — TypeScript 💙  
+- **Backend** — REST/GraphQL, очереди, кэш, интеграции с внешними API.  
+  - **TypeScript / NestJS**: модули, guards/interceptors, Prisma.  
+  - **Java / Spring**: Spring Boot, Spring Web, Spring Data (JPA/Hibernate), Spring Security; Gradle/Maven.  
+- **Frontend** — Next.js/Angular (TypeScript) для внутренних интерфейсов.  
+- **Инфраструктура** — Docker, CI/CD, Nix, мониторинг.  
+- **Эксперименты** — Python, Kotlin, Scala.  
+- **Рабочие языки** — TypeScript и Java.
 
-📺 [YouTube-канал](https://www.youtube.com/@mikomikocchi) — иногда делюсь опытом разработки.
+📺 [YouTube-канал](https://www.youtube.com/@mikomikocchi) — иногда делюсь разбором подходов и инструментов.
 
 ---
 
@@ -39,7 +41,7 @@ Backend-разработчик, автор open-source проектов и лю�
 
 ### Backend
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,postgres,prisma,redis,rabbitmq" height="40"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,java,spring,postgres,hibernate,prisma,redis,kafka,rabbitmq,graphql" height="40"/>
 </div>
 
 ### Frontend
@@ -49,12 +51,12 @@ Backend-разработчик, автор open-source проектов и лю�
 
 ### Инфраструктура
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=vite,docker,ansible,linux,bash,git,nginx,vim" height="40"/>
+  <img src="https://skillicons.dev/icons?i=vite,npm,pnpm,maven,gradle,docker,ansible,linux,bash,git,nginx" height="40"/>
 </div>
 
 ### Эксперименты (Для общего развития)
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=py,java,kotlin,ktor,scala,nix" height="40"/>
+  <img src="https://skillicons.dev/icons?i=py,kotlin,ktor,scala,nix" height="40"/>
 </div>
 
 ---
