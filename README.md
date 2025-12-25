@@ -56,7 +56,7 @@ Backend-разработчик. Пишу backend сервисы: понятны�
 
 ### Эксперименты (для общего развития)
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=py,kotlin,ktor,scala,nix,c,cpp,cmake" height="40"/>
+  <img src="https://skillicons.dev/icons?i=py,kotlin,scala,haskell,nix,c,cpp,cmake" height="40"/>
 </div>
 
 ---
