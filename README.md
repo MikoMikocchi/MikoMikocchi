@@ -27,22 +27,27 @@ Backend-разработчик со стеком — Java/Spring Boot и JS/Nest
 
 ### Backend
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,java,spring,postgres,hibernate,prisma,redis,kafka,rabbitmq,graphql" height="40"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,nestjs,java,spring,postgresql,hibernate,prisma,redis,kafka,rabbitmq,graphql" height="40"/>
 </div>
 
 ### Frontend
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,vite,angular,react,redux,nextjs,html,css,tailwind,sass" height="40"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=javascript,typescript,vite,angular,react,redux,nextjs,html,css,tailwindcss,sass" height="40"/>
 </div>
 
 ### Инфраструктура
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=vite,npm,pnpm,maven,gradle,docker,ansible,linux,bash,git,nginx" height="40"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=vite,npm,pnpm,maven,gradle,docker,ansible,linux,bash,git,nginx" height="40"/>
 </div>
 
 ### Эксперименты (для общего развития)
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=py,kotlin,scala,haskell,nix,c,cpp,cmake" height="40"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,kotlin,scala,haskell,c,cpp,cmake,rust,gleam" height="40"/>
+</div>
+
+### Linux дистрибутивы
+<div align="left">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=nixos,gentoo,arch,fedora,ubuntu," height="40"/>
 </div>
 
 ---
