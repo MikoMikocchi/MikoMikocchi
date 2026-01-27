@@ -55,7 +55,7 @@ Backend-разработчик со стеком — Java/Spring Boot и JS/Nest
 ## 📊 GitHub-статистика
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MikoMikocchi&locale=en&hide_title=false&layout=compact&card_width=322&langs_count=10&theme=dracula&hide_border=true&order=2" height="195" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MikoMikocchi&locale=en&hide_title=false&layout=compact&card_width=318&langs_count=10&theme=dracula&hide_border=true&order=2" height="195" alt="languages graph" />
   <img src="https://streak-stats.demolab.com?user=MikoMikocchi&theme=dracula&hide_border=true" height="210" alt="streak stats" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MikoMikocchi&theme=react&area=true&hide_border=true" height="300" alt="activity graph" />
 </div>
