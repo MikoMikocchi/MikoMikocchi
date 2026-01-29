@@ -2,8 +2,8 @@
 
 ## О себе
 
-Backend-разработчик со стеком — Java/Spring Boot и JS/NestJS. Иногда пишу frontend (Angular).
-Периодически пробую новые инструменты и языки — всегда интересно научиться чему-то новому. Иногда пишу игры.
+Backend-разработчик со стеком — Java/Spring Boot. Иногда пишу Frontend (Angular), да и в принципе всё что взбредёт в голову.
+Периодически пробую новые инструменты и языки — всегда интересно научиться чему-то новому.
 
 📺 [YouTube-канал](https://www.youtube.com/@mikomikocchi)
 
@@ -27,12 +27,12 @@ Backend-разработчик со стеком — Java/Spring Boot и JS/Nest
 
 ### Backend
 <div align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,nestjs,java,spring,postgresql,hibernate,prisma,redis,kafka,rabbitmq,graphql" height="40"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=java,spring,postgresql,hibernate,redis" height="40"/>
 </div>
 
 ### Frontend
 <div align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=javascript,typescript,vite,angular,react,redux,nextjs,html,css,tailwindcss,sass" height="40"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,javascript,typescript,vite,angular,html,css,tailwindcss,sass" height="40"/>
 </div>
 
 ### Инфраструктура
