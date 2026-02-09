@@ -42,7 +42,7 @@ Backend-разработчик со стеком — Java/Spring Boot. Иног�
 
 ### Эксперименты (для общего развития)
 <div align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,haskell,c,cpp,cmake,rust,gleam,ruby,rails" height="40"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,haskell,c,cpp,cmake,rust,gleam,ruby,rails,go" height="40"/>
 </div>
 
 ### Linux дистрибутивы
