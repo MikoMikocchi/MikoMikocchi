@@ -37,7 +37,7 @@ Backend-разработчик со стеком — Java/Spring Boot. Иног�
 
 ### Инфраструктура
 <div align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=maven,gradle,vite,npm,pnpm,docker,ansible,jenkins,linux,bash,git,nginx" height="40"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=maven,gradle,vite,npm,pnpm,docker,jenkins,linux,bash,git,nginx" height="40"/>
 </div>
 
 ### Эксперименты (для общего развития)
