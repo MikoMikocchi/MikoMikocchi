@@ -32,7 +32,7 @@ Backend-разработчик со стеком — Java/Spring Boot. Иног�
 
 ### Frontend
 <div align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,javascript,typescript,vite,angular,html,css,tailwindcss,sass" height="40"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,javascript,typescript,vite,angular,html,css,tailwindcss,sass,biome" height="40"/>
 </div>
 
 ### Инфраструктура
