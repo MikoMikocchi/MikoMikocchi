@@ -1,74 +1,66 @@
-<h1 align="center">Miko / MikoMikocchi</h1>
-
-## О себе
-
-Backend-разработчик со стеком — Java/Spring Boot. Иногда пишу Frontend (Angular), да и в принципе всё что взбредёт в голову.
-Периодически пробую новые инструменты и языки — всегда интересно научиться чему-то новому.
-
-📺 [YouTube-канал](https://www.youtube.com/@mikomikocchi)
-
----
-
-## 🚀 Основные проекты
-
-| Проект | Описание | Технологии |
-|--------|----------|------------|
-| [**Macbooru**](https://github.com/MikoMikocchi/Macbooru) | Нативный macOS-клиент для Danbooru | Swift, SwiftUI |
-| [**booru-proxy**](https://github.com/MikoMikocchi/booru-proxy) | Прокси/воркер для *booru API | NestJS, TypeScript, Redis |
-| [**ollamassistant**](https://github.com/MikoMikocchi/ollamassistant) | Расширение для браузера: быстрый доступ к локальным моделям Ollama прямо на странице (оверлей, контекстное меню, стриминг ответов). | Svelte, TypeScript |
-| [**docker-constructor**](https://github.com/MikoMikocchi/docker-constructor) | Визуальный конструктор docker-compose в стиле n8n | TypeScript, Next.js |
-| [**homebrew-tap**](https://github.com/MikoMikocchi/homebrew-tap) | Собственный tap для Homebrew | Ruby, Homebrew |
-| [**pretty-git**](https://github.com/MikoMikocchi/pretty-git) | CLI для отчётов по репозиторию: активность, авторы, файлы, языки, churn/ownership и прочая аналитика. | Ruby |
-| [**nix-config**](https://github.com/MikoMikocchi/nix-config) | Личный конфиг NixOS/Home Manager. | NixOS |
-
----
-
-## 🛠️ Языки и инструменты
-
-### Backend
-<div align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=java,scala,kotlin,spring,postgresql,hibernate,redis" height="40"/>
-</div>
-
-### Frontend
-<div align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,javascript,typescript,vite,angular,html,css,tailwindcss,sass,biome" height="40"/>
-</div>
-
-### Инфраструктура
-<div align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=maven,gradle,vite,npm,pnpm,docker,jenkins,linux,bash,git,nginx" height="40"/>
-</div>
-
-### Эксперименты (для общего развития)
-<div align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,haskell,c,cpp,cmake,rust,gleam,ruby,rails,go" height="40"/>
-</div>
-
-### Linux дистрибутивы
-<div align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=nixos,gentoo,arch,fedora,ubuntu," height="40"/>
-</div>
-
----
-
-## 📊 GitHub-статистика
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MikoMikocchi&locale=en&hide_title=false&layout=compact&card_width=318&langs_count=10&theme=dracula&hide_border=true&order=2" height="195" alt="languages graph" />
-  <img src="https://streak-stats.demolab.com?user=MikoMikocchi&theme=dracula&hide_border=true" height="210" alt="streak stats" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MikoMikocchi&theme=react&area=true&hide_border=true" height="300" alt="activity graph" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&width=500&lines=Mikhail+Matskevich;Backend+Developer;Curious+Generalist" alt="Typing SVG" />
 </div>
+
+<p align="center">
+  <a href="https://t.me/mikomikocchi"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+  <a href="https://www.youtube.com/@mikomikocchi"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+</p>
 
 ---
 
-## 📬 Контакты
+### About
 
-<div align="center">
-  <a href="https://t.me/mikomikocchi" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="Telegram"/>
-  </a>
-  <a href="https://www.youtube.com/@mikomikocchi" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="YouTube"/>
-  </a>
-</div>
+Backend developer with a core stack of **Java / Spring Boot**. Comfortable across the full stack -- sometimes building frontends, sometimes tinkering with game engines and functional languages. Always looking for the next thing to learn.
+
+---
+
+### Projects
+
+|                                                                                   | Project                                                                      | Description                                               | Stack                                 |
+| --------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- | --------------------------------------------------------- | ------------------------------------- |
+| <img src="https://go-skill-icons.vercel.app/api/icons?i=java" height="20"/>       | [**javaddit**](https://github.com/MikoMikocchi/javaddit)                     | Reddit-style forum backend with voting and feeds          | Java, Spring Boot, PostgreSQL, Docker |
+| <img src="https://go-skill-icons.vercel.app/api/icons?i=swift" height="20"/>      | [**Macbooru**](https://github.com/MikoMikocchi/Macbooru)                     | Native macOS client for Danbooru                          | Swift, SwiftUI                        |
+| <img src="https://go-skill-icons.vercel.app/api/icons?i=svelte" height="20"/>     | [**ollamassistant**](https://github.com/MikoMikocchi/ollamassistant)         | Browser extension: overlay access to local Ollama models  | Svelte, TypeScript                    |
+| <img src="https://go-skill-icons.vercel.app/api/icons?i=nextjs" height="20"/>     | [**docker-constructor**](https://github.com/MikoMikocchi/docker-constructor) | Visual docker-compose builder inspired by n8n             | TypeScript, Next.js                   |
+| <img src="https://go-skill-icons.vercel.app/api/icons?i=ruby" height="20"/>       | [**pretty-git**](https://github.com/MikoMikocchi/pretty-git)                 | CLI report generator: activity, authors, languages, churn | Ruby                                  |
+| <img src="https://go-skill-icons.vercel.app/api/icons?i=ruby" height="20"/>       | [**homebrew-tap**](https://github.com/MikoMikocchi/homebrew-tap)             | Personal Homebrew tap for distributing tools              | Ruby                                  |
+| <img src="https://go-skill-icons.vercel.app/api/icons?i=nixos" height="20"/>      | [**nix-config**](https://github.com/MikoMikocchi/nix-config)                 | Full NixOS / Home Manager system configuration            | Nix                                   |
+| <img src="https://go-skill-icons.vercel.app/api/icons?i=haskell" height="20"/>    | [**2048-haskell**](https://github.com/MikoMikocchi/2048-haskell)             | Classic 2048 with 2D graphics via Gloss                   | Haskell                               |
+
+---
+
+### Tech Stack
+
+<table>
+  <tr>
+    <td align="center" width="140"><b>Languages</b></td>
+    <td>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=java,scala,typescript,ruby,haskell,python,go,rust,cpp" height="36"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Backend</b></td>
+    <td>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=spring,hibernate,postgresql,redis,nodejs,rails" height="36"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Frontend</b></td>
+    <td>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=svelte,react,nextjs,html,css,sass,vite,biome,jekyll" height="36"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>DevOps / Tools</b></td>
+    <td>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=docker,jenkins,nginx,maven,gradle,git,bash,cmake" height="36"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Systems</b></td>
+    <td>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=apple,linux,nixos,arch,gentoo,fedora,ubuntu" height="36"/>
+    </td>
+  </tr>
+</table>
