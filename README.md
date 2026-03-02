@@ -11,7 +11,7 @@
 
 ### About
 
-Backend developer with a core stack of **Java / Spring Boot**. Comfortable across the full stack -- sometimes building frontends, sometimes tinkering with game engines and functional languages. Always looking for the next thing to learn.
+Backend developer with a core stack of **Java / Spring Boot**. Comfortable across the full stack -- sometimes building frontends, making games, messing with functional languages. Always looking for the next thing to learn.
 
 ---
 
@@ -19,6 +19,7 @@ Backend developer with a core stack of **Java / Spring Boot**. Comfortable acros
 
 |                                                                                   | Project                                                                      | Description                                               | Stack                                 |
 | --------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- | --------------------------------------------------------- | ------------------------------------- |
+| <img src="https://go-skill-icons.vercel.app/api/icons?i=python" height="20"/>       | [**chessie**](https://github.com/MikoMikocchi/chessie)                       | Desktop chess app with AI and analyzer                    | Python, C++, Qt                       |
 | <img src="https://go-skill-icons.vercel.app/api/icons?i=java" height="20"/>       | [**javaddit**](https://github.com/MikoMikocchi/javaddit)                     | Reddit-style forum backend with voting and feeds          | Java, Spring Boot, PostgreSQL, Docker |
 | <img src="https://go-skill-icons.vercel.app/api/icons?i=swift" height="20"/>      | [**Macbooru**](https://github.com/MikoMikocchi/Macbooru)                     | Native macOS client for Danbooru                          | Swift, SwiftUI                        |
 | <img src="https://go-skill-icons.vercel.app/api/icons?i=svelte" height="20"/>     | [**ollamassistant**](https://github.com/MikoMikocchi/ollamassistant)         | Browser extension: overlay access to local Ollama models  | Svelte, TypeScript                    |
