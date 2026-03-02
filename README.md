@@ -65,3 +65,9 @@ Backend developer with a core stack of **Java / Spring Boot**. Comfortable acros
     </td>
   </tr>
 </table>
+
+---
+
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
