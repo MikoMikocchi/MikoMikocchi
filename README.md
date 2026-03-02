@@ -64,6 +64,12 @@ Backend developer with a core stack of **Java / Spring Boot**. Comfortable acros
       <img src="https://go-skill-icons.vercel.app/api/icons?i=apple,linux,nixos,arch,gentoo,fedora,ubuntu" height="36"/>
     </td>
   </tr>
+    <tr>
+    <td align="center"><b>IDEs</b></td>
+    <td>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,visualstudio,zed,neovim,idea,clion,rubymine,webstorm" height="36"/>
+    </td>
+  </tr>
 </table>
 
 ---
