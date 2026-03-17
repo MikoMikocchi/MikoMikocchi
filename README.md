@@ -11,7 +11,7 @@
 
 ### About
 
-Backend developer with a core stack of **Java / Spring Boot**. Comfortable across the full stack -- sometimes building frontends, making games, messing with functional languages. Always looking for the next thing to learn.
+Backend developer with a core stack of **C# / .NET**. Comfortable across the full stack -- sometimes building frontends, making games, messing with functional languages. Always looking for the next thing to learn.
 
 ---
 
@@ -37,13 +37,13 @@ Backend developer with a core stack of **Java / Spring Boot**. Comfortable acros
   <tr>
     <td align="center" width="140"><b>Languages</b></td>
     <td>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=java,scala,typescript,ruby,haskell,python,go,rust,cpp" height="36"/>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,java,scala,typescript,python,cpp,swift" height="36"/>
     </td>
   </tr>
   <tr>
     <td align="center"><b>Backend</b></td>
     <td>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=spring,hibernate,postgresql,redis,nodejs,rails" height="36"/>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=net,postgresql,redis,nodejs,rails" height="36"/>
     </td>
   </tr>
   <tr>
@@ -67,7 +67,7 @@ Backend developer with a core stack of **Java / Spring Boot**. Comfortable acros
     <tr>
     <td align="center"><b>IDEs</b></td>
     <td>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,visualstudio,zed,neovim,idea,clion,rubymine,webstorm" height="36"/>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,visualstudio" height="36"/>
     </td>
   </tr>
 </table>
