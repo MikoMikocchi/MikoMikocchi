@@ -37,13 +37,13 @@ Backend developer with a core stack of **C# / .NET**. Comfortable across the ful
   <tr>
     <td align="center" width="140"><b>Languages</b></td>
     <td>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,java,scala,typescript,python,cpp,swift" height="36"/>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,cpp,python,java,scala,typescript,swift" height="36"/>
     </td>
   </tr>
   <tr>
     <td align="center"><b>Backend</b></td>
     <td>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=net,postgresql,redis,nodejs,rails" height="36"/>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=net,postgresql,redis,rabbitmq" height="36"/>
     </td>
   </tr>
   <tr>
@@ -61,7 +61,7 @@ Backend developer with a core stack of **C# / .NET**. Comfortable across the ful
   <tr>
     <td align="center"><b>Systems</b></td>
     <td>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=apple,linux,nixos,arch,gentoo,fedora,ubuntu" height="36"/>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=apple,windows,linux,nixos,arch,gentoo,fedora,ubuntu" height="36"/>
     </td>
   </tr>
     <tr>
