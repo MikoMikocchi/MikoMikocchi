@@ -48,19 +48,13 @@ Backend developer with a core stack of **C# / .NET**. Comfortable across the ful
   <tr>
     <td align="center"><b>Frontend</b></td>
     <td>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=svelte,react,nextjs,html,css,sass,vite,biome,jekyll" height="36"/>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=svelte,angular,html,css,sass,vite,biome,jekyll" height="36"/>
     </td>
   </tr>
   <tr>
     <td align="center"><b>DevOps / Tools</b></td>
     <td>
       <img src="https://go-skill-icons.vercel.app/api/icons?i=docker,jenkins,nginx,git,bash,cmake" height="36"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>Systems</b></td>
-    <td>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=apple,windows,linux,nixos,arch,gentoo,fedora,ubuntu" height="36"/>
     </td>
   </tr>
     <tr>
