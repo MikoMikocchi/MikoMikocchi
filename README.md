@@ -60,7 +60,7 @@ Backend developer with a core stack of **C# / .NET**. Comfortable across the ful
     <tr>
     <td align="center"><b>IDEs</b></td>
     <td>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,visualstudio" height="36"/>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,visualstudio,cursor,xcode" height="36"/>
     </td>
   </tr>
 </table>
