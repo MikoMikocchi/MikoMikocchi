@@ -11,7 +11,7 @@
 
 ### About
 
-Backend developer with a core stack of **C# / .NET**. Comfortable across the full stack -- sometimes building frontends, making games, messing with functional languages. Always looking for the next thing to learn.
+Backend developer with a core stack of Python/Django/FastAPI. Comfortable across the full stack -- sometimes building frontends, making games, messing with functional languages. Always looking for the next thing to learn.
 
 ---
 
@@ -36,19 +36,19 @@ Backend developer with a core stack of **C# / .NET**. Comfortable across the ful
   <tr>
     <td align="center" width="140"><b>Languages</b></td>
     <td>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,cpp,python,typescript,swift" height="36"/>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=python,typescript,cpp,swift" height="36"/>
     </td>
   </tr>
   <tr>
     <td align="center"><b>Backend</b></td>
     <td>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=net,postgresql,redis,rabbitmq" height="36"/>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=django,fastapi,postgresql,redis,rabbitmq" height="36"/>
     </td>
   </tr>
   <tr>
     <td align="center"><b>Frontend</b></td>
     <td>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=svelte,angular,html,css,sass,vite,biome,jekyll" height="36"/>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=nextjs,react,html,css,sass,vite,biome,jekyll" height="36"/>
     </td>
   </tr>
   <tr>
