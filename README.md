@@ -11,7 +11,11 @@
 
 ### About
 
-Backend developer with a core stack of Python/Django/FastAPI. Comfortable across the full stack -- sometimes building frontends, making games, messing with functional languages. Always looking for the next thing to learn.
+Backend developer specializing in Python (Django, FastAPI) with full-stack experience.
+
+Built and deployed production-ready services, including multiple bots and full-stack applications using Django and Next.js. Experienced in designing backend architecture, API development, and integrating frontend systems.
+
+Comfortable working across different languages and ecosystems, with a focus on practical, scalable solutions.
 
 ---
 
