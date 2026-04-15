@@ -40,13 +40,13 @@ Comfortable working across different languages and ecosystems, with a focus on p
   <tr>
     <td align="center" width="140"><b>Languages</b></td>
     <td>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=python,typescript,cpp,swift" height="36"/>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=python,ruby,typescript,cpp,swift" height="36"/>
     </td>
   </tr>
   <tr>
     <td align="center"><b>Backend</b></td>
     <td>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=django,fastapi,postgresql,redis,rabbitmq" height="36"/>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=django,fastapi,rails,postgresql,redis,rabbitmq" height="36"/>
     </td>
   </tr>
   <tr>
