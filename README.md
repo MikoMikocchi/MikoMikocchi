@@ -73,3 +73,4 @@ Comfortable working across different languages and ecosystems, with a focus on p
 
 ![Stats](./profile/stats.svg)
 ![Top Languages](./profile/top-langs.svg)
+![LeetCode Stats](https://leetcard.jacoblin.cool/MikoMikocchi?theme=dark&font=Noto%20Sans%20JP&ext=activity)
