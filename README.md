@@ -2,11 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&width=500&lines=Mikhail+Matskevich;Backend+Developer;Curious+Generalist" alt="Typing SVG" />
 </div>
 
-<p align="center">
-  <a href="https://t.me/mikomikocchi"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
-  <a href="https://www.youtube.com/@mikomikocchi"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
-</p>
-
 ---
 
 ### About
