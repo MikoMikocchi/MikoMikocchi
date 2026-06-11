@@ -35,7 +35,7 @@ Comfortable working across different languages and ecosystems, with a focus on p
   <tr>
     <td align="center" width="140"><b>Languages</b></td>
     <td>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=python,ruby,typescript,cpp,swift" height="36"/>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=python,ruby,typescript,cpp,swift,kotlin" height="36"/>
     </td>
   </tr>
   <tr>
