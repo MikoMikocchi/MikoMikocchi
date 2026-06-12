@@ -8,9 +8,9 @@
 
 Backend developer specializing in Python (Django, FastAPI) with full-stack experience.
 
-Built and deployed production-ready services, including multiple bots and full-stack applications using Django and Next.js. Experienced in designing backend architecture, API development, and integrating frontend systems.
+Built and deployed production-ready services, including multiple Telegram bots and full-stack applications using Django, React. Experienced in designing backend architecture, API development, and integrating frontend systems.
 
-Comfortable working across different languages and ecosystems, with a focus on practical, scalable solutions.
+Comfortable working across different languages and ecosystems, with a focus on practical, scalable solutions. Always open to experiments.
 
 ---
 
@@ -35,31 +35,31 @@ Comfortable working across different languages and ecosystems, with a focus on p
   <tr>
     <td align="center" width="140"><b>Languages</b></td>
     <td>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=python,ruby,typescript,cpp,swift,kotlin" height="36"/>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=python,ruby,php,typescript,kotlin" height="36"/>
     </td>
   </tr>
   <tr>
     <td align="center"><b>Backend</b></td>
     <td>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=django,fastapi,rails,postgresql,redis,rabbitmq" height="36"/>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=django,fastapi,rails,laravel,postgresql,redis,rabbitmq,celery" height="36"/>
     </td>
   </tr>
   <tr>
     <td align="center"><b>Frontend</b></td>
     <td>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=nextjs,react,html,css,sass,vite,biome,jekyll" height="36"/>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=react,html,css,sass,vite,biome,redux" height="36"/>
     </td>
   </tr>
   <tr>
     <td align="center"><b>DevOps / Tools</b></td>
     <td>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=docker,jenkins,nginx,git,bash,cmake" height="36"/>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=linux,docker,kubernetes,jenkins,nginx,git,bash" height="36"/>
     </td>
   </tr>
     <tr>
     <td align="center"><b>IDEs</b></td>
     <td>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,visualstudio,cursor,xcode" height="36"/>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=cursor,xcode,pycharm,androidstudio" height="36"/>
     </td>
   </tr>
 </table>
