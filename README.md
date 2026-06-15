@@ -1,16 +1,20 @@
 <div align="center">
+
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&width=500&lines=Mikhail+Matskevich;Backend+Developer;Curious+Generalist" alt="Typing SVG" />
+
 </div>
 
 ---
 
 ### About
 
-Backend developer specializing in Python (Django, FastAPI) with full-stack experience.
+Backend developer specializing in PHP (Laravel) with full-stack experience.
 
-Built and deployed production-ready services, including multiple Telegram bots and full-stack applications using Django, React. Experienced in designing backend architecture, API development, and integrating frontend systems.
+Built and deployed production-ready services, including multiple Telegram bots and full-stack applications using Laravel and React. Experienced in designing backend architecture, API development, and integrating frontend systems.
 
-Comfortable working across different languages and ecosystems, with a focus on practical, scalable solutions. Always open to experiments.
+Also comfortable with Python/Django and Ruby/Rails — have hands-on experience in both ecosystems and feel confident working in them. Happy to work across different languages and stacks, with a focus on practical, scalable solutions. Always open to experiments.
+
+**[Mikoshift](https://github.com/Mikoshift)** — personal organization with my own projects.
 
 ---
 
@@ -18,6 +22,8 @@ Comfortable working across different languages and ecosystems, with a focus on p
 
 |                                                                                   | Project                                                                      | Description                                               | Stack                                 |
 | --------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- | --------------------------------------------------------- | ------------------------------------- |
+| <img src="https://go-skill-icons.vercel.app/api/icons?i=kotlin,ts,android" height="20"/> | [**Natsu**](https://github.com/Mikoshift/Natsu)                             | Japanese reader for Android (Mikoshift)                               | Kotlin, TS                          |
+| <img src="https://go-skill-icons.vercel.app/api/icons?i=laravel,vue,ts" height="20"/> | [**natsu-web**](https://github.com/Mikoshift/natsu-web)                     | Web monolith for Natsu (Mikoshift)                        | Laravel, Vue, TS,                    |
 | <img src="https://go-skill-icons.vercel.app/api/icons?i=python,cpp" height="20"/>       | [**chessie**](https://github.com/MikoMikocchi/chessie)                       | Desktop chess app with AI and analyzer                    | Python, C++, Qt                       |
 | <img src="https://go-skill-icons.vercel.app/api/icons?i=swift" height="20"/>      | [**Macbooru**](https://github.com/MikoMikocchi/Macbooru)                     | Native macOS client for Danbooru                          | Swift, SwiftUI                        |
 | <img src="https://go-skill-icons.vercel.app/api/icons?i=svelte,ts" height="20"/>     | [**ollamassistant**](https://github.com/MikoMikocchi/ollamassistant)         | Browser extension: overlay access to local Ollama models  | Svelte, TypeScript                    |
@@ -35,19 +41,19 @@ Comfortable working across different languages and ecosystems, with a focus on p
   <tr>
     <td align="center" width="140"><b>Languages</b></td>
     <td>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=python,ruby,php,typescript,kotlin" height="36"/>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=php,python,ruby,typescript,kotlin" height="36"/>
     </td>
   </tr>
   <tr>
     <td align="center"><b>Backend</b></td>
     <td>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=django,fastapi,rails,laravel,postgresql,redis,rabbitmq,celery" height="36"/>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=laravel,django,fastapi,rails,postgresql,redis,rabbitmq,celery" height="36"/>
     </td>
   </tr>
   <tr>
     <td align="center"><b>Frontend</b></td>
     <td>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=react,html,css,sass,vite,biome,redux" height="36"/>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=react,vue,html,css,sass,vite,redux" height="36"/>
     </td>
   </tr>
   <tr>
@@ -56,10 +62,10 @@ Comfortable working across different languages and ecosystems, with a focus on p
       <img src="https://go-skill-icons.vercel.app/api/icons?i=linux,docker,kubernetes,jenkins,nginx,git,bash" height="36"/>
     </td>
   </tr>
-    <tr>
+  <tr>
     <td align="center"><b>IDEs</b></td>
     <td>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=cursor,xcode,pycharm,androidstudio" height="36"/>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=cursor,xcode,phpstorm,androidstudio" height="36"/>
     </td>
   </tr>
 </table>
