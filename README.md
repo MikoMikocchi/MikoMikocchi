@@ -41,7 +41,7 @@ Also comfortable with Python/Django and Ruby/Rails — have hands-on experience 
   <tr>
     <td align="center" width="140"><b>Languages</b></td>
     <td>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=php,python,ruby,typescript,kotlin" height="36"/>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=php,python,ruby,typescript" height="36"/>
     </td>
   </tr>
   <tr>
