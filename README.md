@@ -47,19 +47,19 @@ Also comfortable with Python/Django and Ruby/Rails — have hands-on experience 
   <tr>
     <td align="center"><b>Backend</b></td>
     <td>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=laravel,django,fastapi,rails,postgresql,redis,rabbitmq,celery" height="36"/>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=laravel,django,fastapi,postgresql,redis,rabbitmq" height="36"/>
     </td>
   </tr>
   <tr>
     <td align="center"><b>Frontend</b></td>
     <td>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=react,vue,html,css,sass,vite,redux" height="36"/>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=vue,nuxt,html,css,sass,vite" height="36"/>
     </td>
   </tr>
   <tr>
     <td align="center"><b>DevOps / Tools</b></td>
     <td>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=linux,docker,kubernetes,jenkins,nginx,git,bash" height="36"/>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=linux,docker,jenkins,nginx,git,bash" height="36"/>
     </td>
   </tr>
   <tr>
