@@ -38,7 +38,7 @@ Also comfortable with Python/Django — have hands-on experience in both ecosyst
 
 <table>
   <tr>
-    <td align="center" width="140"><b>Languages</b></td>
+    <td align="center" width="140"><b>Main Languages</b></td>
     <td>
       <img src="https://go-skill-icons.vercel.app/api/icons?i=ruby,python,typescript" height="36"/>
     </td>
@@ -46,19 +46,25 @@ Also comfortable with Python/Django — have hands-on experience in both ecosyst
   <tr>
     <td align="center"><b>Backend</b></td>
     <td>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=rails,django,fastapi,postgresql,redis" height="36"/>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=rails,django,fastapi,postgresql,redis,rabbitmq" height="36"/>
     </td>
   </tr>
   <tr>
     <td align="center"><b>Frontend</b></td>
     <td>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=vue,nuxt,html,css,sass,tailwind,vite,webpack" height="36"/>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,html,css,sass,tailwind,vite,nodejs" height="36"/>
     </td>
   </tr>
   <tr>
     <td align="center"><b>DevOps / Tools</b></td>
     <td>
       <img src="https://go-skill-icons.vercel.app/api/icons?i=linux,docker,jenkins,nginx,git,bash" height="36"/>
+    </td>
+  </tr>
+    <tr>
+    <td align="center"><b>Experiments</b></td>
+    <td>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=dart,flutter,android,kotlin,swift," height="36"/>
     </td>
   </tr>
   <tr>
