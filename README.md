@@ -40,13 +40,13 @@ Also comfortable with Python/Django — have hands-on experience in both ecosyst
   <tr>
     <td align="center" width="140"><b>Main Languages</b></td>
     <td>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=ruby,python,typescript" height="36"/>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=ruby,python,typescript,javascript,java" height="36"/>
     </td>
   </tr>
   <tr>
     <td align="center"><b>Backend</b></td>
     <td>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=rails,django,fastapi,postgresql,redis,rabbitmq" height="36"/>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=rails,django,fastapi,spring,postgresql,redis,rabbitmq" height="36"/>
     </td>
   </tr>
   <tr>
