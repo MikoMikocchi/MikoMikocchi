@@ -8,9 +8,9 @@
 
 ### About
 
-Backend developer specializing in Ruby on Rails with full-stack experience.
+Backend developer specializing in Java with full-stack experience.
 
-Built and deployed production-ready services, including multiple Telegram bots and full-stack applications using Rails and Next.js. Experienced in designing backend architecture, API development, and integrating frontend systems.
+Built and deployed production-ready services, including multiple Telegram bots and full-stack applications using Spring Framework and Next.js. Experienced in designing backend architecture, API development, and integrating frontend systems.
 
 Also comfortable with Python/Django — have hands-on experience in both ecosystems and feel confident working in them. Happy to work across different languages and stacks, with a focus on practical, scalable solutions. Always open to experiments.
 
@@ -38,15 +38,15 @@ Also comfortable with Python/Django — have hands-on experience in both ecosyst
 
 <table>
   <tr>
-    <td align="center" width="140"><b>Main Languages</b></td>
+    <td align="center" width="140"><b>Languages</b></td>
     <td>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=ruby,python,typescript,javascript,java" height="36"/>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=java,python,typescript" height="36"/>
     </td>
   </tr>
   <tr>
     <td align="center"><b>Backend</b></td>
     <td>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=rails,django,fastapi,spring,postgresql,redis,rabbitmq" height="36"/>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=spring,maven,hibernate,django,fastapi,postgresql,redis,kafka" height="36"/>
     </td>
   </tr>
   <tr>
@@ -56,21 +56,21 @@ Also comfortable with Python/Django — have hands-on experience in both ecosyst
     </td>
   </tr>
   <tr>
+    <td align="center"><b>Mobile</b></td>
+    <td>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=kotlin,swift,androidstudio,xcode,gradle" height="36"/>
+    </td>
+  </tr>
+  <tr>
     <td align="center"><b>DevOps / Tools</b></td>
     <td>
       <img src="https://go-skill-icons.vercel.app/api/icons?i=linux,docker,jenkins,nginx,git,bash" height="36"/>
     </td>
   </tr>
-    <tr>
-    <td align="center"><b>Experiments</b></td>
-    <td>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=dart,flutter,android,kotlin,swift," height="36"/>
-    </td>
-  </tr>
   <tr>
     <td align="center"><b>IDEs</b></td>
     <td>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=cursor,xcode,androidstudio,rubymine,pycharm" height="36"/>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=cursor,idea,pycharm" height="36"/>
     </td>
   </tr>
 </table>
