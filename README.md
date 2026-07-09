@@ -46,7 +46,7 @@ Also comfortable with Python/Django — have hands-on experience in both ecosyst
   <tr>
     <td align="center"><b>Backend</b></td>
     <td>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=spring,maven,hibernate,django,fastapi,postgresql,redis,kafka" height="36"/>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=spring,maven,hibernate,django,fastapi,postgresql,redis,kafka,junit" height="36"/>
     </td>
   </tr>
   <tr>
@@ -58,7 +58,7 @@ Also comfortable with Python/Django — have hands-on experience in both ecosyst
   <tr>
     <td align="center"><b>Mobile</b></td>
     <td>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=kotlin,swift,androidstudio,xcode,gradle" height="36"/>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=kotlin,android,androidstudio,gradle,swift,xcode" height="36"/>
     </td>
   </tr>
   <tr>
