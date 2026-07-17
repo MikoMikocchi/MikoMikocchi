@@ -12,7 +12,7 @@ Backend developer specializing in Java with full-stack experience.
 
 Built and deployed production-ready services, including multiple Telegram bots and full-stack applications using Spring Framework and Next.js. Experienced in designing backend architecture, API development, and integrating frontend systems.
 
-Also comfortable with Python/Django — have hands-on experience in both ecosystems and feel confident working in them. Happy to work across different languages and stacks, with a focus on practical, scalable solutions. Always open to experiments.
+Happy to work across different languages and stacks, with a focus on practical, scalable solutions. Always open to experiments.
 
 ---
 
@@ -46,7 +46,7 @@ Also comfortable with Python/Django — have hands-on experience in both ecosyst
   <tr>
     <td align="center"><b>Backend</b></td>
     <td>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=spring,maven,hibernate,django,fastapi,postgresql,redis,kafka,junit" height="36"/>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=spring,maven,hibernate,postgresql,redis,kafka,junit" height="36"/>
     </td>
   </tr>
   <tr>
