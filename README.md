@@ -28,7 +28,6 @@ Happy to work across different languages and stacks, with a focus on practical, 
 | <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,qt" height="20"/>       | [**chessie**](https://github.com/MikoMikocchi/chessie)                       | Desktop chess app with AI and analyzer                    | C++, Qt                       |
 | <img src="https://go-skill-icons.vercel.app/api/icons?i=swift" height="20"/>      | [**Macbooru**](https://github.com/MikoMikocchi/Macbooru)                     | Native macOS client for Danbooru                          | Swift, SwiftUI                        |
 | <img src="https://go-skill-icons.vercel.app/api/icons?i=svelte,ts" height="20"/>     | [**ollamassistant**](https://github.com/MikoMikocchi/ollamassistant)         | Browser extension: overlay access to local Ollama models  | Svelte, TypeScript                    |
-| <img src="https://go-skill-icons.vercel.app/api/icons?i=nixos" height="20"/>      | [**nix-config**](https://github.com/MikoMikocchi/nix-config)                 | Full NixOS / Home Manager system configuration            | Nix                                   |
 
 ---
 
