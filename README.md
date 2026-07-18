@@ -40,7 +40,7 @@ Happy to work across different languages and stacks, with a focus on practical, 
   <tr>
     <td align="center" width="140"><b>Languages</b></td>
     <td>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=java,python,typescript" height="36"/>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=java,kotlin,python" height="36"/>
     </td>
   </tr>
   <tr>
@@ -58,13 +58,13 @@ Happy to work across different languages and stacks, with a focus on practical, 
   <tr>
     <td align="center"><b>Mobile</b></td>
     <td>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=kotlin,android,androidstudio,gradle,swift,xcode" height="36"/>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=android,androidstudio,gradle,swift,xcode" height="36"/>
     </td>
   </tr>
   <tr>
     <td align="center"><b>DevOps / Tools</b></td>
     <td>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=linux,docker,jenkins,nginx,git,bash" height="36"/>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=linux,docker,kubernetes,jenkins,nginx,git,bash" height="36"/>
     </td>
   </tr>
   <tr>
