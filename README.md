@@ -13,6 +13,7 @@ Backend developer specializing in Java with full-stack experience.
 Built and deployed production-ready services, including multiple Telegram bots and full-stack applications using Spring Framework and Next.js. Experienced in designing backend architecture, API development, and integrating frontend systems.
 
 Happy to work across different languages and stacks, with a focus on practical, scalable solutions. Always open to experiments.
+I use Cursor, IntelliJ IDEA, Android Studio, PyCharm and Xcode.
 
 ---
 
@@ -62,12 +63,6 @@ Happy to work across different languages and stacks, with a focus on practical, 
     <td align="center"><b>DevOps / Tools</b></td>
     <td>
       <img src="https://go-skill-icons.vercel.app/api/icons?i=linux,docker,kubernetes,jenkins,nginx,git,bash" height="36"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>IDEs</b></td>
-    <td>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=cursor,idea,pycharm" height="36"/>
     </td>
   </tr>
 </table>
