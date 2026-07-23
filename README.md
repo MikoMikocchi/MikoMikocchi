@@ -13,7 +13,7 @@ Backend developer specializing in Java with full-stack and mobile experience (Pr
 Built and deployed production-ready services, including multiple Telegram bots and full-stack applications using Spring Framework and Next.js. Experienced in designing backend architecture, API development, integrating frontend systems and mobile development.
 
 Happy to work across different languages and stacks, with a focus on practical, scalable solutions. Always open to experiments.
-I use Cursor, IntelliJ IDEA, Android Studio, PyCharm and Xcode.
+I use Cursor, IntelliJ IDEA, Android Studio, PyCharm and Xcode for my projects.
 
 ---
 
