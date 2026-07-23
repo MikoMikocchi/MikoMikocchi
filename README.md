@@ -8,7 +8,7 @@
 
 ### About
 
-Backend developer specializing in Java with full-stack and mobile experience (Primarly Android, but iOS too).
+Backend developer specializing in Java with full-stack and mobile experience (Primarily Android, but iOS too).
 
 Built and deployed production-ready services, including multiple Telegram bots and full-stack applications using Spring Framework and Next.js. Experienced in designing backend architecture, API development, integrating frontend systems and mobile development.
 
@@ -23,7 +23,7 @@ I use Cursor, IntelliJ IDEA, Android Studio, PyCharm and Xcode.
 | --------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- | --------------------------------------------------------- | ------------------------------------- |
 | <img src="https://go-skill-icons.vercel.app/api/icons?i=spring,java,postgres" height="20"/> | [**natsu-spring-backend**](https://github.com/MikoMikocchi/natsu-spring-backend)                     | Spring backend for Natsu                        | Spring Boot, Java, PostgreSQL                    |
 | <img src="https://go-skill-icons.vercel.app/api/icons?i=android,kotlin" height="20"/> | [**natsudroid**](https://github.com/MikoMikocchi/natsudroid)                             | Android japanese reader                             | Kotlin                          |
-| <img src="https://go-skill-icons.vercel.app/api/icons?i=swift" height="20"/> | [**natsu-ios**](https://github.com/MikoMikocchi/natsudroid)                             | iOS japanese reader                             | Swift, SwiftUI                          |
+| <img src="https://go-skill-icons.vercel.app/api/icons?i=swift" height="20"/> | [**natsu-ios**](https://github.com/MikoMikocchi/natsu-ios)                             | iOS japanese reader                             | Swift, SwiftUI                          |
 | <img src="https://go-skill-icons.vercel.app/api/icons?i=swift" height="20"/>      | [**Macbooru**](https://github.com/MikoMikocchi/Macbooru)                     | Native macOS client for Danbooru                          | Swift, SwiftUI                        |
 | <img src="https://go-skill-icons.vercel.app/api/icons?i=spring,java,postgres" height="20"/>       | [**ai-bot**](https://github.com/MikoMikocchi/ai-bot)                 | Telegram bot with summaries and AI integrations | Spring Boot, Java, PostgreSQL                                  |
 | <img src="https://go-skill-icons.vercel.app/api/icons?i=ruby" height="20"/>       | [**pretty-git**](https://github.com/MikoMikocchi/pretty-git)                 | CLI Git report generator: activity, authors, languages, churn | Ruby                                  |
